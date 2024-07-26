@@ -24,4 +24,5 @@ The dashboard aims to provide actionable insights for hotel management to reduce
 
 ## Technology Used-
 Data Visualization: Tableau
+
 Predictive Modeling: Utilized advanced machine learning algorithms to predict booking cancellations.
