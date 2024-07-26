@@ -4,9 +4,13 @@ This interactive Tableau dashboard showcases insights derived from a hotel booki
 
 ## Key Metrics and Visualizations:
 **Average Daily Rate & Lead Time:** Displays the average revenue per room per day and the average time in days between booking and stay, highlighting pricing and booking behavior.
+
 **Total Bookings and Cancellations:** Provides a summary of total bookings (119,390) and cancellations (44,224), offering a snapshot of overall performance.
+
 **Monthly Booking and Cancellation Trends:** Illustrates the fluctuations in bookings and cancellations throughout the year, allowing for seasonal trend analysis.
+
 **Market Segment Distribution:** Breaks down bookings by market segments such as Direct, Groups, and Online Travel Agents (OTAs), with OTAs comprising 47.30% of the market.
+
 **Yearly Cancellation Trends:** Compares cancellations across 2015, 2016, and 2017, facilitating year-over-year performance evaluation.
 **Hotel Type Cancellation Rates:** Analyzes cancellation rates for city hotels versus resort hotels in relation to different week stays.
 **Monthly Revenue Analysis:** Tracks revenue trends month-over-month to identify peak and off-peak periods.
