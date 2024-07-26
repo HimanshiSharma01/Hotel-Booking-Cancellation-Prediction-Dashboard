@@ -12,8 +12,11 @@ This interactive Tableau dashboard showcases insights derived from a hotel booki
 **Market Segment Distribution:** Breaks down bookings by market segments such as Direct, Groups, and Online Travel Agents (OTAs), with OTAs comprising 47.30% of the market.
 
 **Yearly Cancellation Trends:** Compares cancellations across 2015, 2016, and 2017, facilitating year-over-year performance evaluation.
+
 **Hotel Type Cancellation Rates:** Analyzes cancellation rates for city hotels versus resort hotels in relation to different week stays.
+
 **Monthly Revenue Analysis:** Tracks revenue trends month-over-month to identify peak and off-peak periods.
+
 **Top Distribution Channels:** Highlights the four main booking channels and their respective cancellation distributions, emphasizing areas for potential improvement.
 
 ## Purpose and Impact
